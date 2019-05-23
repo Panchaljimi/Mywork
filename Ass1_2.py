@@ -1,0 +1,8 @@
+print("IN VERSION 3")
+x=input("Enter the name or num")
+print(x)
+print(type(x))
+print("After type casting")
+b=int(input("Enter the item u want to print:"))
+print(b)
+print(type(b))

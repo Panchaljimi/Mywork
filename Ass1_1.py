@@ -1,0 +1,13 @@
+#WAP to input from user:
+a=raw_input("Enter the String or Number")
+print(a)
+print("Type Casting:")
+a=int(raw_input("Entr the number:"))
+print (a)
+print(type(a))
+print("Using Eval Function")
+x=eval(raw_input("Enter the Item:"))
+print("IN VERSION 2")
+x=input("Enter the name or num")
+print(x)
+prit(type(x))
